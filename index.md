@@ -1,4 +1,4 @@
-![プロフィール画像](IMG_4181.MOV)
+![プロフィール画像](IMG_4181.JPG)
 
 # About
 I'm a third-year college student in Japan.  
