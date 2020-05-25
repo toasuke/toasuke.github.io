@@ -7,5 +7,5 @@ My dream is teaching kids in developing countries how to grow up vegetables well
 And making a living as a nomad worker.
 
 ## Profile
- Name: toasuke
- Living: Tokyo
+ Name: toasuke  
+ Living: Tokyo  
