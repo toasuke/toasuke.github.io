@@ -1,0 +1,22 @@
+body {
+    background-color: #e4f8e1;
+    color: #4467ff;
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+button{
+    padding: 5px 20px;
+    background-color: blue;
+    opacity: 0.4;
+    color: rgb(89, 214, 137);
+    border-style: none;
+}
+#assessment:hover{
+    color:rgb(22, 24, 24)
+    
+}
+input{
+    height: 20px;
+}
